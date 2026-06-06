@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=TinNK3&label=Profile%20views&color=36BCF7&style=flat" alt="TinNK3" /> 
   <img src="https://img.shields.io/github/followers/TinNK3?style=social" />
   <img src="https://img.shields.io/github/stars/TinNK3?style=social" />
-  <img src="https://img.shields.io/github/license/TinNK3/TinNK3?style=flat&color=36BCF7" />
+  <img src="https://img.shields.io/badge/License-MIT-36BCF7.svg?style=flat" />
 </p>
 
 <h2> <img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My GitHub Profile </h2>
@@ -170,7 +170,7 @@
 <tr>
 <td align="center">
   <img width="600em" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TinNK3&theme=dracula" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TinNK3&theme=dracula" 
        alt="Profile Summary">
 </td>
 </tr>
@@ -180,8 +180,8 @@
 <tr>
 
 <td align="center">
-  <img width="400em" 
-       src="https://github-readme-stats.vercel.app/api?username=TinNK3&theme=dracula&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+  <img width="420em" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TinNK3&theme=dracula" 
        alt="GitHub Stats"/>
 </td>
 
@@ -196,9 +196,14 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-  <img width="500em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinNK3&layout=compact&theme=dracula&hide_border=false&bg_color=000000"
+  <img width="420em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TinNK3&theme=dracula"
        alt="Top Languages"/>
+</td>
+<td align="center">
+  <img width="420em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TinNK3&theme=dracula"
+       alt="Most Commit Language"/>
 </td>
 </tr>
 </table>

@@ -5,10 +5,11 @@ import fetch from "node-fetch";
 const USERNAME = process.env.USERNAME || "TinNK3";
 
 const ENDPOINTS = [
-  `https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&include_all_commits=true&count_private=true`,
-  `https://github-readme-stats.vercel.app/api/top-langs/?username=${USERNAME}&layout=compact`,
-  `https://streak-stats.demolab.com?user=${USERNAME}`,
   `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${USERNAME}`,
+  `https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${USERNAME}`,
+  `https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=${USERNAME}`,
+  `https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=${USERNAME}`,
+  `https://streak-stats.demolab.com?user=${USERNAME}`,
 ];
 
 export default async function handler(req, res) {
