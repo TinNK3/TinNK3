@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=TinNK3&label=Profile%20views&color=36BCF7&style=flat" alt="TinNK3" /> 
   <img src="https://img.shields.io/github/followers/TinNK3?style=social" />
   <img src="https://img.shields.io/github/stars/TinNK3?style=social" />
+  <img src="https://img.shields.io/github/license/TinNK3/TinNK3?style=flat&color=36BCF7" />
 </p>
 
 <h2> <img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My GitHub Profile </h2>

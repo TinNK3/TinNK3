@@ -1,0 +1,15 @@
+{
+  "name": "tinnk3-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README for TinNK3 (Khanh Tin Nguyen)",
+  "scripts": {
+    "refresh-stats": "node api/update-stats.js"
+  },
+  "license": "MIT",
+  "author": "Khanh Tin Nguyen",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
